@@ -1,0 +1,30 @@
+.nav-bar {
+    display: flex;
+    background-color: dodgerblue;
+    align-items: center;
+    align-content: center;
+    color: white;
+    padding: 1rem;
+}
+
+.tabs-row {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+    
+}
+
+body {
+    margin: 0px 0px;
+    padding: 0px 0px;
+    font-family: sans-serif;
+}
+
+.title-secondary {
+    font-size: 2rem;
+    font-weight: 300;
+}
+
+.tab-selected {
+    font-weight: 700;
+}
