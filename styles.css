@@ -28,3 +28,29 @@ body {
 .tab-selected {
     font-weight: 700;
 }
+.create-form{
+    border: 1px solid black;
+    margin: auto 25%;
+    padding: 1rem;
+
+}
+.form-row{
+    margin :1rem;
+}
+
+.form-button-row {
+    display: flex;
+    justify-content: center;
+}
+.button-primary{
+    background-color: dodgerblue;
+    color:white;
+}
+.button-secondary{
+   
+    background-color: lightgrey;
+}
+.dropdown,input{
+    margin-left: 1rem;
+    width : 75%
+}
